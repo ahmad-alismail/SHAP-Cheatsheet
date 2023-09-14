@@ -46,7 +46,6 @@ st.subheader("How does each feature affect predictions?")
 st.pyplot(shap.plots.beeswarm(st.session_state.shap_values, max_display=10))
 with st.expander("See explanation"):
         st.write("""
-                * Beeswarm plot used in SHAP library to interpret ML models.
                 * The x-axis usually represents the SHAP value, 
                     which indicates how much each feature (experience, degree, sales, etc.) 
                     contributes to pushing the model's output (i.e., bonus) higher or lower.

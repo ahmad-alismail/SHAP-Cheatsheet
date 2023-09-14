@@ -1,6 +1,8 @@
-# SHAP Explainer Streamlit App
+# SHAP Explainer
 
-This app serves as a starter guide for understanding and explaining regression models using SHAP values.
+<div style="text-align:center;"><img src="imgs/shap_explainer.gif" width="500" height="400"/></div>
+
+This app serves as a starter guide for understanding and explaining regression models using SHAP values. 
 It contains the following sections:
 
 - **Feature Importance (📊)**: Analyze the significance of different features in the model.
@@ -9,6 +11,7 @@ It contains the following sections:
 - **Feature Dependence (🔍)**: Examine how different features interact within the model.
 - **What If (❓)**: Conduct 'What-If' analyses to understand how changes in feature values could affect predictions.
 
+You can access a live demo of the app [here](https://shap-explainer.streamlit.app/).
 
 ## Setup
 
