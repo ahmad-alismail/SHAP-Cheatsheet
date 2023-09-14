@@ -1,6 +1,6 @@
 # SHAP Explainer
 
-<div style="text-align:center;"><img src="imgs/shap_explainer.gif" width="500" height="400"/></div>
+<div style="text-align:center;"><img src="imgs/shap_explainer.gif" width="800" height="640"/></div>
 
 This app serves as a starter guide for understanding and explaining regression models using SHAP values. 
 It contains the following sections:
